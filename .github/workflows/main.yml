@@ -1,0 +1,68 @@
+DOCTYPE html>
+<html><lang="eng">
+
+<head>
+  <meta charcet="UTF-8"
+  <meta name="viewport" content" width=device-width,initial-scale=1.0">
+  
+<title>Document</title>
+</head>
+ 
+<body>
+   <fieldset>
+   <h1>Your details</h1>
+   <form action="">
+   <fieldset>
+  <lable for=""> Enter your first name:
+ <input type="text" =id""=name""placeholder="">
+  </lable>
+  
+  <lable for="">Enter your last name:
+   <input type="text"id=""name=""placeholder="">
+    </lable>
+  
+  <lable for="">Enter your email name:
+  <input type="text"id=""name=""placeholder="">
+   </lable>
+   <lable for="">create password:
+   <input type="text"id=""name=""placeholder="">
+   </lable>
+  </fieldset>
+    
+ <fieldset>
+ <h2>gender</h2>
+   <lable for="male"><input id "male"type="radio"/>male</lable>
+   </fieldset>
+   <lable for="female"><input id "female"type="radio"/>female</lable> <br>
+  <h2> nationality </h2>
+   <lable for="kenyan"><input id "kenyan"type=""radio"></lable>
+ <lable for="other">kenya<input  type="text"name="national/"others </lable> <br>
+<lable for"user email">Enter your email:
+  <input type "email"
+  name="email" id="user-email">
+ </lable>
+ <fieldset> 
+ <lable for"user-age">                                   <input type="number" min="13" max="120"id="user age>"
+ </lable>
+ </fieldset>
+   <fieldset>
+   <lable for=""> How did you know about us
+   <select name=""id="selection">
+   <option value="">(select one)</option>
+   <option value=""> Facebook</option>
+   <option value=""> Instagram</option>
+   <option value=""> TikTok</option>
+  </select></lable>
+</fieldset>
+</lable>
+   <fieldset>
+     <lable for="user bio">knowing about computer
+    <textarea name=""id="user-bio"cols="40"rows="20"></0pp pp/textarea>
+ </lable>
+ </fieldset>
+  <input type="submit"value="submit" 
+ </form> 
+ </p>
+</body>
+     
+</html>	
