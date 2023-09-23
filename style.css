@@ -1,0 +1,19 @@
+*{
+    background-color: blueviolet ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-size: 18px;
+    }
+    
+    nav li{
+    display:inline;
+    }
+    nav li a{
+        padding: 28px;
+        border: 50px;
+        border-radius: 10px;
+    }
+    nav li a:hoover {
+        background-color: brown;
+    }
+    
